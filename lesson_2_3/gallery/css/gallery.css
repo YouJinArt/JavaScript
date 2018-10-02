@@ -1,0 +1,12 @@
+#gallery {
+    display: flex;
+    justify-content: center;
+}
+
+.head-gallery {
+    width: 100%;
+}
+
+.images {
+    padding: 5px;
+}
